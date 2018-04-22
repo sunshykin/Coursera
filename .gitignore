@@ -16,3 +16,4 @@ YandexML/Week3/svm_answer.txt
 YandexML/Week3/svm_texts_answer.txt
 YandexML/Week3/logistic_answer.txt
 *.txt
+*.pyc
