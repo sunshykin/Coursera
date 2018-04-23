@@ -17,3 +17,4 @@ YandexML/Week3/svm_texts_answer.txt
 YandexML/Week3/logistic_answer.txt
 *.txt
 *.pyc
+/YandexML/Week7_ToReview/*.ipynb
